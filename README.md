@@ -1,2 +1,2 @@
 # javaProjects
-Personal java projects
+Personal beginner java and javaScript projects.
